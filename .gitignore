@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+hollyvenv
+db.sqlite3
+/static
+.DS_Store
